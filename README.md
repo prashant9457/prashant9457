@@ -1,88 +1,80 @@
-<!--
-  README for GitHub Profile
-  Updated by assistant (dummy) — edit content as needed
--->
-
-<h1 align="center">Hi 👋, I'm Prasant Singh</h1>
+<h1 align="center">Prasant Singh</h1>
 
 <p align="center">
-  A passionate developer and problem solver.
+  Software Developer • Problem Solver • Robotics & Drone Enthusiast
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I’m currently working on improving my problem solving and full-stack skills.
-- 🌱 I’m currently learning more advanced algorithms and system design.
-- 👯 I’m looking to collaborate on open-source and competitive coding projects.
-- 💬 Ask me about C++, Python, DSA, or anything tech!
-- ⚡ Fun fact: I never stop grinding problems 💪
-
----
-
-## 🧠 Skills
-
-### Languages
-C++, Python, JavaScript
-
-### Technologies & Tools
-React, Node.js, Express, MongoDB, Git, GitHub
+I am a B.Tech Computer Science student focused on building strong fundamentals in
+data structures, algorithms, and full-stack development.  
+I actively practice competitive programming and enjoy working on robotics
+and drone-related systems alongside software projects.
 
 ---
 
-## 📊 GitHub Stats
+## Skills
+
+**Programming Languages**
+- C++
+- Python
+- JavaScript
+
+**Web & Backend**
+- React
+- Node.js
+- Express
+- MongoDB
+- SQL
+
+**Problem Solving**
+- Data Structures & Algorithms
+- Competitive Programming
+
+**Hardware & Robotics**
+- Drone Systems
+- Robotics
+- Sensors & Embedded Logic (basic)
+
+---
+
+## Problem Solving Statistics
+
+### Consolidated Profile (All Platforms)
+<p align="center">
+  <a href="https://codolio.com/profile/codernotfound">
+    <img src="https://codolio.com/profile/codernotfound/card" alt="Codolio Profile Stats" />
+  </a>
+</p>
+
+> This includes problems solved across platforms such as LeetCode, Codeforces,
+> CodeChef, and others, with difficulty and activity breakdown.
+
+---
+
+## LeetCode Activity
 
 <p align="center">
-  <!-- GitHub Profile Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prasant8171&show_icons=true&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Prasant8171?theme=light&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-## 🧩 LeetCode Stats
+## Featured Work (Updating)
 
-<!--
-  Replace USERNAME below with your LeetCode username when generated.
-  You can use services like:
-   • leetcard.jacoblin.cool for full stats + heatmap
-   • leetcode-stats.vercel.app for badge style
-   • leetcode-badge-sage.vercel.app for simple stat bar
-  See docs: https://leetcard.jacoblin.cool/ :contentReference[oaicite:2]{index=2}
--->
-
-<p align="center">
-  <!-- LeetCode Stats Card (dynamic SVG) -->
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Prasant8171?theme=dark)
-
-  <!-- Optional heatmap preview (if supported by card provider) -->
-  ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Prasant8171?extension=heatmap&theme=dark)
-</p>
-
-<p align="center">
-  <!-- Difficulty breakdown placeholder -->
-  ![LeetCode Difficulty](https://leetcode-stats.vercel.app/api?username=Prasant8171&theme=dark&show=easy,medium,hard)
-</p>
+- Algorithm practice and pattern-based solutions
+- Full-stack web applications
+- Robotics and drone-oriented experimental projects
 
 ---
 
-## 📂 Featured Projects
+## Profiles
 
-| Project | Description |
-|---------|-------------|
-| **Awesome-App** | A full-stack web app built with React and Node |
-| **Algo-Library** | A collection of solving patterns in C++ |
-| **CLI-Tool** | **TBD** |
+- **LeetCode:** https://leetcode.com/u/Prasant8171/
+- **Codolio:** https://codolio.com/profile/codernotfound
+- **GitHub:** https://github.com/Prasant8171
 
 ---
-
-## 📫 Get in Touch
-
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
-- 💼 Portfolio: https://yourportfolio.com  
-- 📧 Email: your.email@example.com
-
----
-
-⭐ Thanks for visiting my profile!
 
