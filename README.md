@@ -4,28 +4,6 @@
   <strong>Full-Stack Developer | Problem Solver | Robotics & Autonomous Systems Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-let-s-connect">Connect</a>
-</p>
-
----
-
-## 🎯 About Me
-
-I'm a **Computer Science undergraduate** passionate about building scalable software systems and exploring cutting-edge robotics technologies. My focus areas include:
-
-- 🔧 **Software Development**: Strong foundations in data structures, algorithms, and backend systems
-- 🤖 **Robotics & Autonomous Systems**: Navigation, control systems, and perception in complex environments
-- 💡 **Problem Solving**: Applying computational thinking to real-world challenges
-- 📚 **Continuous Learning**: Regularly solving algorithmic problems and exploring emerging technologies
-
----
-
-## 💻 Tech Stack
-
 ### **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -48,60 +26,6 @@ I'm a **Computer Science undergraduate** passionate about building scalable soft
   <img src="https://leetcard.jacoblin.cool/Prasant8171?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
----
-
-## 🎨 Featured Projects
-
-### 🚁 Autonomous Navigation Aerial Vehicle (Martian Environment)
-
-**Status:** ✅ Completed | **Domain:** Robotics, Autonomous Systems, Aerial Navigation
-
-#### Overview
-
-Designed a conceptual autonomous aerial vehicle capable of navigating harsh Martian terrain with advanced autonomous capabilities. The system integrates sophisticated environment perception algorithms, intelligent obstacle avoidance mechanisms, and robust path planning under challenging low-gravity and low-visibility conditions.
-
-#### 🔑 Key Technical Highlights
-
-- **Autonomous Navigation**: Real-time decision-making algorithms for dynamic environments
-- **Sensor Fusion**: Advanced terrain analysis using multiple sensor inputs
-- **Path Planning**: Robust algorithms for navigation in uncertain and constrained environments
-- **Safety Systems**: Fail-safe mechanisms for extreme environmental conditions
-
----
-
-### 👥 Human Resource Management System (HRMS)
-
-**Status:** ✅ Completed | **Domain:** Full-Stack Development, Enterprise Systems
-
-#### Overview
-
-A centralized HRMS platform designed to streamline employee management workflows. Built to address real-world challenges including data inconsistency, lack of automation, and manual record manipulation in enterprise environments.
-
-#### 🎯 Core Features
-
-- **Employee Data Management**: Centralized employee record system with comprehensive data validation
-- **Attendance Tracking**: Automated attendance logging and verification mechanisms
-- **Role-Based Access Control**: Fine-grained permissions and monitoring capabilities
-- **Workflow Transparency**: Real-time visibility into HR processes and employee records
-
----
-
-### 🚀 Project Three (In Progress)
-
-**Status:** 🔄 Actively Developing
-
-#### Overview
-
-An experimental project focused on enhancing system performance and user experience through iterative design, optimization, and user-centric development practices. This project explores innovative solutions to emerging challenges in modern software systems.
-
-#### 📌 Current Focus Areas
-
-- Performance optimization and scalability
-- User experience enhancement
-- Real-time system monitoring and analytics
-- Iterative testing and refinement
-
----
 
 ## 🤝 Let's Connect
 
@@ -111,10 +35,5 @@ I'm always interested in collaborating on exciting projects and discussing innov
 - **Codolio**: [codolio.com/profile/codernotfound](https://codolio.com/profile/codernotfound)
 - **GitHub**: [github.com/Prasant8171](https://github.com/Prasant8171)
 
----
-
-<p align="center">
-  <strong>Thanks for visiting! Feel free to explore my projects and get in touch. 🚀</strong>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=Prashant9457&icon=0&color=12)](https://visitcount.itsvg.in)
