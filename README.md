@@ -1,7 +1,7 @@
-﻿# Prashant Singh :)
+# Prashant Singh :)
 
 ### Interdisciplinary approach is my way as an engineer. So spread your wings, eat the frog and get going.
-### I'm a computer science engineer with interest in diverse fields including **algorithms, web, robotics, drones, ML**. I've worked across different fields which you'll find in my [Repositories](https://github.com/prashant9457?tab=repositories). I also practice data structures and algorithms in **C++**, visit my profile [here](https://codolio.com/profile/codernotfound). 
+### I'm a computer science engineer with interest in diverse fields including **algorithms, web, robotics, drones, ML**. I've worked across different fields which you'll find in my [Repositories](https://github.com/prashant9457?tab=repositories). I also practice data structures and algorithms in **C++**, visit my profile [here](https://codolio.com/profile/codernotfound).
 
 
 <table>
